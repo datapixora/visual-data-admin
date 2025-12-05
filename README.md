@@ -11,6 +11,7 @@
 The Visual Data Platform Admin Dashboard is a Next.js-based web application that provides administrators with tools to manage campaigns, review uploads, manage users, and monitor platform statistics.
 
 **Connected Backend API**: [Visual Data Platform API](https://github.com/datapixora/DataSet)
+**System Overview**: [docs/system-overview.md](./docs/system-overview.md)
 
 ## Features
 
